@@ -3,9 +3,6 @@ class Field:
         self.row = row
         self.col = col
         self.probabs = probabs
-        #self.probabRight = probabRight
-        #self.probabDown = probabDown
-        #self.probabLeft = probabLeft
         self.r = r
         self.v = v
         self.action = action
